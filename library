@@ -508,7 +508,7 @@ local function getObjGen()
             Gui.DropShadow_3.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_3.Size = UDim2.new(1, 34, 1, 34)
             Gui.DropShadow_3.ZIndex = 109
-            Gui.DropShadow_3.Image = "rbxassetid://6014261993"
+            Gui.DropShadow_3.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_3.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_3.ImageTransparency = 0.500
             Gui.DropShadow_3.ScaleType = Enum.ScaleType.Slice
@@ -616,7 +616,7 @@ local function getObjGen()
             Gui.Text_4.BackgroundTransparency = 1.000
             Gui.Text_4.Size = UDim2.new(0.699999988, 0, 0.800000012, 0)
             Gui.Text_4.ZIndex = 110
-            Gui.Text_4.Image = "rbxassetid://7881709447"
+            Gui.Text_4.Image = "rbxassetid://97585540890550"
             Gui.Text_4.ImageColor3 = Color3.fromRGB(25, 25, 25)
             Gui.Text_4.ScaleType = Enum.ScaleType.Slice
             Gui.Text_4.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -637,7 +637,7 @@ local function getObjGen()
             Gui.DropShadow_5.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_5.Size = UDim2.new(1, 15, 1, 15)
             Gui.DropShadow_5.ZIndex = 108
-            Gui.DropShadow_5.Image = "rbxassetid://6015897843"
+            Gui.DropShadow_5.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_5.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_5.ImageTransparency = 0.500
             Gui.DropShadow_5.ScaleType = Enum.ScaleType.Slice
@@ -667,7 +667,7 @@ local function getObjGen()
             Gui.Preview.Selectable = false
             Gui.Preview.Size = UDim2.new(1, 0, 0.800000012, 0)
             Gui.Preview.ZIndex = 112
-            Gui.Preview.Image = "rbxassetid://7881709447"
+            Gui.Preview.Image = "rbxassetid://97585540890550"
             Gui.Preview.ScaleType = Enum.ScaleType.Slice
             Gui.Preview.SliceCenter = Rect.new(512, 512, 512, 512)
             Gui.Preview.SliceScale = 0.005
@@ -687,7 +687,7 @@ local function getObjGen()
             Gui.DropShadow_6.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_6.Size = UDim2.new(1, 15, 1, 15)
             Gui.DropShadow_6.ZIndex = 110
-            Gui.DropShadow_6.Image = "rbxassetid://6015897843"
+            Gui.DropShadow_6.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_6.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_6.ImageTransparency = 0.500
             Gui.DropShadow_6.ScaleType = Enum.ScaleType.Slice
@@ -701,7 +701,7 @@ local function getObjGen()
             Gui.Hover.BackgroundTransparency = 1.000
             Gui.Hover.Size = UDim2.new(1, 0, 1, 0)
             Gui.Hover.ZIndex = 113
-            Gui.Hover.Image = "rbxassetid://7881709447"
+            Gui.Hover.Image = "rbxassetid://97585540890550"
             Gui.Hover.ImageColor3 = Color3.fromRGB(47, 47, 47)
             Gui.Hover.ImageTransparency = 1.000
             Gui.Hover.ScaleType = Enum.ScaleType.Slice
@@ -775,7 +775,7 @@ local function getObjGen()
             Gui.DropShadow_7.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_7.Size = UDim2.new(1, 25, 1, 25)
             Gui.DropShadow_7.ZIndex = 109
-            Gui.DropShadow_7.Image = "rbxassetid://6014261993"
+            Gui.DropShadow_7.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_7.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_7.ImageTransparency = 0.500
             Gui.DropShadow_7.ScaleType = Enum.ScaleType.Slice
@@ -836,7 +836,7 @@ local function getObjGen()
             Gui.DropShadow_8.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_8.Size = UDim2.new(1, 25, 1, 25)
             Gui.DropShadow_8.ZIndex = 109
-            Gui.DropShadow_8.Image = "rbxassetid://6014261993"
+            Gui.DropShadow_8.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_8.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_8.ImageTransparency = 0.500
             Gui.DropShadow_8.ScaleType = Enum.ScaleType.Slice
@@ -892,7 +892,7 @@ local function getObjGen()
             Gui.Icon_2.BackgroundTransparency = 1.000
             Gui.Icon_2.Size = UDim2.new(1, 0, 1, 0)
             Gui.Icon_2.ZIndex = 111
-            Gui.Icon_2.Image = "rbxassetid://7072706663"
+            Gui.Icon_2.Image = "rbxassetid://97585540890550"
             Gui.Icon_2.ImageColor3 = Color3.fromRGB(100, 100, 100)
             Gui.Icon_2.ScaleType = Enum.ScaleType.Fit
 
@@ -928,7 +928,7 @@ local function getObjGen()
             Gui.DropShadow_9.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_9.Size = UDim2.new(1, 50, 1, 50)
             Gui.DropShadow_9.ZIndex = 111
-            Gui.DropShadow_9.Image = "rbxassetid://6014261993"
+            Gui.DropShadow_9.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_9.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_9.ImageTransparency = 1.000
             Gui.DropShadow_9.ScaleType = Enum.ScaleType.Slice
@@ -981,7 +981,7 @@ local function getObjGen()
             Gui.Bottom.Size = UDim2.new(1, 0, 0, 0)
             Gui.Bottom.ZIndex = 120
             Gui.Bottom.AutoButtonColor = false
-            Gui.Bottom.Image = "rbxassetid://7890831727"
+            Gui.Bottom.Image = "rbxassetid://97585540890550"
             Gui.Bottom.ImageColor3 = Color3.fromRGB(25, 25, 25)
             Gui.Bottom.ScaleType = Enum.ScaleType.Slice
             Gui.Bottom.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1006,7 +1006,7 @@ local function getObjGen()
             Gui.Select.BackgroundTransparency = 1.000
             Gui.Select.Size = UDim2.new(1, 0, 1, 0)
             Gui.Select.ZIndex = 120
-            Gui.Select.Image = "rbxassetid://7890831727"
+            Gui.Select.Image = "rbxassetid://97585540890550"
             Gui.Select.ImageColor3 = Color3.fromRGB(83, 87, 158)
             Gui.Select.ImageTransparency = 1.000
             Gui.Select.ScaleType = Enum.ScaleType.Slice
@@ -1022,7 +1022,7 @@ local function getObjGen()
             Gui.Slot.Size = UDim2.new(1, 0, 0, 0)
             Gui.Slot.ZIndex = 120
             Gui.Slot.AutoButtonColor = false
-            Gui.Slot.Image = "rbxassetid://7890925834"
+            Gui.Slot.Image = "rbxassetid://97585540890550"
             Gui.Slot.ImageColor3 = Color3.fromRGB(25, 25, 25)
             Gui.Slot.ScaleType = Enum.ScaleType.Slice
             Gui.Slot.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1043,7 +1043,7 @@ local function getObjGen()
             Gui.Select_2.BackgroundTransparency = 1.000
             Gui.Select_2.Size = UDim2.new(1, 0, 1, 0)
             Gui.Select_2.ZIndex = 121
-            Gui.Select_2.Image = "rbxassetid://7890925834"
+            Gui.Select_2.Image = "rbxassetid://97585540890550"
             Gui.Select_2.ImageColor3 = Color3.fromRGB(83, 87, 158)
             Gui.Select_2.ImageTransparency = 1.000
             Gui.Select_2.ScaleType = Enum.ScaleType.Slice
@@ -1072,7 +1072,7 @@ local function getObjGen()
             Gui.Top.Size = UDim2.new(1, 0, 0, 0)
             Gui.Top.ZIndex = 120
             Gui.Top.AutoButtonColor = false
-            Gui.Top.Image = "http://www.roblox.com/asset/?id=8374820043"
+            Gui.Top.Image = "http://www.roblox.com/asset/?id=97585540890550"
             Gui.Top.ImageColor3 = Color3.fromRGB(25, 25, 25)
             Gui.Top.ScaleType = Enum.ScaleType.Slice
             Gui.Top.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1093,7 +1093,7 @@ local function getObjGen()
             Gui.Select_3.BackgroundTransparency = 1.000
             Gui.Select_3.Size = UDim2.new(1, 0, 1, 0)
             Gui.Select_3.ZIndex = 121
-            Gui.Select_3.Image = "http://www.roblox.com/asset/?id=8374820043"
+            Gui.Select_3.Image = "http://www.roblox.com/asset/?id=97585540890550"
             Gui.Select_3.ImageColor3 = Color3.fromRGB(83, 87, 158)
             Gui.Select_3.ImageTransparency = 1.000
             Gui.Select_3.ScaleType = Enum.ScaleType.Slice
@@ -1144,7 +1144,7 @@ local function getObjGen()
             Gui.Image.BackgroundTransparency = 1.000
             Gui.Image.Size = UDim2.new(0.400000006, 0, 0.400000006, 0)
             Gui.Image.ZIndex = 123
-            Gui.Image.Image = "rbxassetid://8349124615"
+            Gui.Image.Image = "rbxassetid://97585540890550"
             Gui.Image.ImageColor3 = Color3.fromRGB(90, 90, 90)
 
             Gui.UIAspectRatioConstraint_6.Parent = Gui.Image
@@ -1209,7 +1209,7 @@ local function getObjGen()
             Gui.Watermark.BackgroundTransparency = 1.000
             Gui.Watermark.Size = UDim2.new(0.5, 0, 0.0199999996, 0)
             Gui.Watermark.Font = Enum.Font.Gotham
-            Gui.Watermark.Text = "hydrahub v2 | nil | nil"
+            Gui.Watermark.Text = "NitroBlade X"
             Gui.Watermark.TextColor3 = Color3.fromRGB(255, 255, 255)
             Gui.Watermark.TextSize = 14.000
             Gui.Watermark.TextStrokeTransparency = 0.800
@@ -1246,7 +1246,7 @@ local function getObjGen()
             Gui.DropShadow_10.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_10.Size = UDim2.new(1, 45, 1, 45)
             Gui.DropShadow_10.ZIndex = 99
-            Gui.DropShadow_10.Image = "rbxassetid://6015897843"
+            Gui.DropShadow_10.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_10.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_10.ImageTransparency = 0.500
             Gui.DropShadow_10.ScaleType = Enum.ScaleType.Slice
@@ -1327,7 +1327,7 @@ local function getObjGen()
             Gui.Fill.BackgroundTransparency = 1.000
             Gui.Fill.Size = UDim2.new(1, 0, 1, 0)
             Gui.Fill.ZIndex = 122
-            Gui.Fill.Image = "rbxassetid://7881868371"
+            Gui.Fill.Image = "rbxassetid://97585540890550"
             Gui.Fill.ImageColor3 = Color3.fromRGB(32, 32, 32)
             Gui.Fill.ScaleType = Enum.ScaleType.Slice
             Gui.Fill.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1372,7 +1372,7 @@ local function getObjGen()
             Gui.Logo.LayoutOrder = -5
             Gui.Logo.Size = UDim2.new(1, 0, 0.100000001, 0)
             Gui.Logo.ZIndex = 122
-            Gui.Logo.Image = "rbxassetid://8343875413"
+            Gui.Logo.Image = "rbxassetid://97585540890550"
             Gui.Logo.ImageColor3 = Color3.fromRGB(134, 142, 255)
             Gui.Logo.ScaleType = Enum.ScaleType.Fit
 
@@ -1400,7 +1400,7 @@ local function getObjGen()
             Gui.Fill_2.BackgroundTransparency = 1.000
             Gui.Fill_2.Size = UDim2.new(1, 0, 1, 0)
             Gui.Fill_2.ZIndex = 120
-            Gui.Fill_2.Image = "rbxassetid://7881302920"
+            Gui.Fill_2.Image = "rbxassetid://97585540890550"
             Gui.Fill_2.ImageColor3 = Color3.fromRGB(27, 27, 27)
             Gui.Fill_2.ScaleType = Enum.ScaleType.Slice
             Gui.Fill_2.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1421,7 +1421,7 @@ local function getObjGen()
             Gui.Tab2.Position = UDim2.new(1, 0, 0, 0)
             Gui.Tab2.Size = UDim2.new(0.850000024, 0, 1, 0)
             Gui.Tab2.ZIndex = 120
-            Gui.Tab2.Image = "rbxassetid://7881302920"
+            Gui.Tab2.Image = "rbxassetid://97585540890550"
             Gui.Tab2.ImageColor3 = Color3.fromRGB(27, 27, 27)
             Gui.Tab2.ScaleType = Enum.ScaleType.Slice
             Gui.Tab2.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1465,7 +1465,7 @@ local function getObjGen()
             Gui.ColorPickerOverlay.Visible = false
             Gui.ColorPickerOverlay.ZIndex = 200
             Gui.ColorPickerOverlay.AutoButtonColor = false
-            Gui.ColorPickerOverlay.Image = "rbxassetid://7880418493"
+            Gui.ColorPickerOverlay.Image = "rbxassetid://97585540890550"
             Gui.ColorPickerOverlay.ImageColor3 = Color3.fromRGB(18, 18, 18)
             Gui.ColorPickerOverlay.ImageTransparency = 1.000
             Gui.ColorPickerOverlay.ScaleType = Enum.ScaleType.Slice
@@ -1495,7 +1495,7 @@ local function getObjGen()
             Gui.Wheel.Position = UDim2.new(0, 0, 0.5, 0)
             Gui.Wheel.Size = UDim2.new(0.800000012, 0, 0.800000012, 0)
             Gui.Wheel.ZIndex = 203
-            Gui.Wheel.Image = "http://www.roblox.com/asset/?id=6020299385"
+            Gui.Wheel.Image = "http://www.roblox.com/asset/?id=97585540890550"
 
             Gui.Hitbox.Name = "Hitbox"
             Gui.Hitbox.Parent = Gui.Wheel
@@ -1507,7 +1507,7 @@ local function getObjGen()
             Gui.Hitbox.Selectable = false
             Gui.Hitbox.Size = UDim2.new(1.29999995, 0, 1.29999995, 0)
             Gui.Hitbox.ZIndex = 205
-            Gui.Hitbox.Image = "rbxassetid://7890831727"
+            Gui.Hitbox.Image = "rbxassetid://97585540890550"
             Gui.Hitbox.ImageTransparency = 0.999
             Gui.Hitbox.ScaleType = Enum.ScaleType.Slice
             Gui.Hitbox.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1521,7 +1521,7 @@ local function getObjGen()
             Gui.Shadow_2.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.Shadow_2.Size = UDim2.new(1.29999995, 0, 1.32000005, 0)
             Gui.Shadow_2.ZIndex = 202
-            Gui.Shadow_2.Image = "rbxassetid://7892079145"
+            Gui.Shadow_2.Image = "rbxassetid://97585540890550"
             Gui.Shadow_2.ImageTransparency = 0.550
 
             Gui.UIAspectRatioConstraint_8.Parent = Gui.Wheel
@@ -1534,7 +1534,7 @@ local function getObjGen()
             Gui.Pointer.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.Pointer.Size = UDim2.new(0.100000001, 0, 0.100000001, 0)
             Gui.Pointer.ZIndex = 204
-            Gui.Pointer.Image = "rbxassetid://7892266163"
+            Gui.Pointer.Image = "rbxassetid://97585540890550"
             Gui.Pointer.ImageColor3 = Color3.fromRGB(136, 136, 136)
 
             Gui.UIListLayout_14.Parent = Gui.MainWindow
@@ -1553,7 +1553,7 @@ local function getObjGen()
             Gui.Saturation.Position = UDim2.new(0.800000012, 0, 0.5, 0)
             Gui.Saturation.Size = UDim2.new(0.0340000018, 0, 1, 0)
             Gui.Saturation.ZIndex = 202
-            Gui.Saturation.Image = "rbxassetid://3570695787"
+            Gui.Saturation.Image = "rbxassetid://97585540890550"
             Gui.Saturation.ImageColor3 = Color3.fromRGB(19, 255, 131)
             Gui.Saturation.ScaleType = Enum.ScaleType.Slice
             Gui.Saturation.SliceCenter = Rect.new(100, 100, 100, 100)
@@ -1574,7 +1574,7 @@ local function getObjGen()
             Gui.DropShadow_11.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_11.Size = UDim2.new(1, 12, 1, 12)
             Gui.DropShadow_11.ZIndex = 201
-            Gui.DropShadow_11.Image = "rbxassetid://6014261993"
+            Gui.DropShadow_11.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_11.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_11.ImageTransparency = 0.500
             Gui.DropShadow_11.ScaleType = Enum.ScaleType.Slice
@@ -1588,7 +1588,7 @@ local function getObjGen()
             Gui.Pointer_2.Position = UDim2.new(0.5, 0, 0, 0)
             Gui.Pointer_2.Size = UDim2.new(1.29999995, 0, 0, 4)
             Gui.Pointer_2.ZIndex = 204
-            Gui.Pointer_2.Image = "rbxassetid://7890831727"
+            Gui.Pointer_2.Image = "rbxassetid://97585540890550"
             Gui.Pointer_2.ScaleType = Enum.ScaleType.Slice
             Gui.Pointer_2.SliceCenter = Rect.new(512, 512, 512, 512)
             Gui.Pointer_2.SliceScale = 0.003
@@ -1611,7 +1611,7 @@ local function getObjGen()
             Gui.Hitbox_2.Selectable = false
             Gui.Hitbox_2.Size = UDim2.new(1.29999995, 0, 1.29999995, 0)
             Gui.Hitbox_2.ZIndex = 205
-            Gui.Hitbox_2.Image = "rbxassetid://7890831727"
+            Gui.Hitbox_2.Image = "rbxassetid://97585540890550"
             Gui.Hitbox_2.ImageTransparency = 0.999
             Gui.Hitbox_2.ScaleType = Enum.ScaleType.Slice
             Gui.Hitbox_2.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1640,7 +1640,7 @@ local function getObjGen()
             Gui.RGB.BackgroundTransparency = 1.000
             Gui.RGB.Size = UDim2.new(0.600000024, 0, 0.800000012, 0)
             Gui.RGB.ZIndex = 202
-            Gui.RGB.Image = "rbxassetid://7880418493"
+            Gui.RGB.Image = "rbxassetid://97585540890550"
             Gui.RGB.ImageColor3 = Color3.fromRGB(32, 32, 32)
             Gui.RGB.ScaleType = Enum.ScaleType.Slice
             Gui.RGB.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1676,7 +1676,7 @@ local function getObjGen()
             Gui.DropShadow_12.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_12.Size = UDim2.new(1, 24, 1, 24)
             Gui.DropShadow_12.ZIndex = 201
-            Gui.DropShadow_12.Image = "rbxassetid://6014261993"
+            Gui.DropShadow_12.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_12.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_12.ImageTransparency = 0.500
             Gui.DropShadow_12.ScaleType = Enum.ScaleType.Slice
@@ -1702,7 +1702,7 @@ local function getObjGen()
             Gui.Hex.LayoutOrder = 1
             Gui.Hex.Size = UDim2.new(0.349999994, 0, 0.800000012, 0)
             Gui.Hex.ZIndex = 202
-            Gui.Hex.Image = "rbxassetid://7880418493"
+            Gui.Hex.Image = "rbxassetid://97585540890550"
             Gui.Hex.ImageColor3 = Color3.fromRGB(32, 32, 32)
             Gui.Hex.ScaleType = Enum.ScaleType.Slice
             Gui.Hex.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1723,7 +1723,7 @@ local function getObjGen()
             Gui.DropShadow_13.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_13.Size = UDim2.new(1, 24, 1, 24)
             Gui.DropShadow_13.ZIndex = 201
-            Gui.DropShadow_13.Image = "rbxassetid://6014261993"
+            Gui.DropShadow_13.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_13.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_13.ImageTransparency = 0.500
             Gui.DropShadow_13.ScaleType = Enum.ScaleType.Slice
@@ -1774,7 +1774,7 @@ local function getObjGen()
             Gui.Confirm.Selectable = false
             Gui.Confirm.Size = UDim2.new(0.75, 0, 0.649999976, 0)
             Gui.Confirm.ZIndex = 201
-            Gui.Confirm.Image = "rbxassetid://7881709447"
+            Gui.Confirm.Image = "rbxassetid://97585540890550"
             Gui.Confirm.ImageColor3 = Color3.fromRGB(50, 50, 50)
             Gui.Confirm.ScaleType = Enum.ScaleType.Slice
             Gui.Confirm.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1856,7 +1856,7 @@ local function getObjGen()
             Gui.Cancel.Selectable = false
             Gui.Cancel.Size = UDim2.new(0.200000003, 0, 0.649999976, 0)
             Gui.Cancel.ZIndex = 201
-            Gui.Cancel.Image = "rbxassetid://7881709447"
+            Gui.Cancel.Image = "rbxassetid://97585540890550"
             Gui.Cancel.ImageColor3 = Color3.fromRGB(50, 50, 50)
             Gui.Cancel.ScaleType = Enum.ScaleType.Slice
             Gui.Cancel.SliceCenter = Rect.new(512, 512, 512, 512)
