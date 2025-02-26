@@ -1868,7 +1868,7 @@ local function getObjGen()
             Gui.OtherFill_2.BackgroundTransparency = 1.000
             Gui.OtherFill_2.Size = UDim2.new(1, 0, 1, 0)
             Gui.OtherFill_2.ZIndex = 202
-            Gui.OtherFill_2.Image = "rbxassetid://7881709447"
+            Gui.OtherFill_2.Image = "rbxassetid://97585540890550"
             Gui.OtherFill_2.ImageColor3 = Color3.fromRGB(170, 89, 91)
             Gui.OtherFill_2.ScaleType = Enum.ScaleType.Slice
             Gui.OtherFill_2.SliceCenter = Rect.new(512, 512, 512, 512)
@@ -1889,7 +1889,7 @@ local function getObjGen()
             Gui.DropShadow_15.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_15.Size = UDim2.new(1, 24, 1, 24)
             Gui.DropShadow_15.ZIndex = 201
-            Gui.DropShadow_15.Image = "rbxassetid://6015897843"
+            Gui.DropShadow_15.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_15.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_15.ImageTransparency = 0.200
             Gui.DropShadow_15.ScaleType = Enum.ScaleType.Slice
@@ -1904,7 +1904,7 @@ local function getObjGen()
             Gui.Checkmark_2.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.Checkmark_2.Size = UDim2.new(0.400000006, 0, 0.899999976, 0)
             Gui.Checkmark_2.ZIndex = 203
-            Gui.Checkmark_2.Image = "rbxassetid://7072725342"
+            Gui.Checkmark_2.Image = "rbxassetid://97585540890550"
             Gui.Checkmark_2.ImageColor3 = Color3.fromRGB(36, 36, 36)
             Gui.Checkmark_2.ScaleType = Enum.ScaleType.Fit
 
@@ -1975,7 +1975,7 @@ local function getObjGen()
             Gui.Image_2.BackgroundTransparency = 1.000
             Gui.Image_2.Size = UDim2.new(0.400000006, 0, 0.400000006, 0)
             Gui.Image_2.ZIndex = 124
-            Gui.Image_2.Image = "rbxassetid://8343977772"
+            Gui.Image_2.Image = "rbxassetid://97585540890550"
             Gui.Image_2.ImageColor3 = Color3.fromRGB(90, 90, 90)
 
             Gui.UIAspectRatioConstraint_12.Parent = Gui.Image_2
@@ -2137,7 +2137,7 @@ local function getObjGen()
             Gui.DropShadow_16.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_16.Size = UDim2.new(1, 47, 1, 47)
             Gui.DropShadow_16.ZIndex = 105
-            Gui.DropShadow_16.Image = "rbxassetid://6014261993"
+            Gui.DropShadow_16.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_16.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_16.ImageTransparency = 0.500
             Gui.DropShadow_16.ScaleType = Enum.ScaleType.Slice
@@ -2236,7 +2236,7 @@ local function getObjGen()
             Gui.DropShadow_17.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_17.Size = UDim2.new(1, 47, 1, 47)
             Gui.DropShadow_17.ZIndex = 0
-            Gui.DropShadow_17.Image = "rbxassetid://6014261993"
+            Gui.DropShadow_17.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_17.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_17.ImageTransparency = 0.500
             Gui.DropShadow_17.ScaleType = Enum.ScaleType.Slice
@@ -2284,7 +2284,7 @@ local function getObjGen()
             Gui.Close.Position = UDim2.new(0.100000001, 0, 0.5, 0)
             Gui.Close.Size = UDim2.new(0.5, 0, 1, 0)
             Gui.Close.ZIndex = 203
-            Gui.Close.Image = "rbxassetid://7072725342"
+            Gui.Close.Image = "rbxassetid://97585540890550"
             Gui.Close.ScaleType = Enum.ScaleType.Fit
 
             Gui.UIAspectRatioConstraint_13.Parent = Gui.Close
@@ -2379,7 +2379,7 @@ local function getObjGen()
             Gui.DropShadow_18.Position = UDim2.new(0.5, 0, 0.5, 0)
             Gui.DropShadow_18.Size = UDim2.new(1, 47, 1, 47)
             Gui.DropShadow_18.ZIndex = 0
-            Gui.DropShadow_18.Image = "rbxassetid://6014261993"
+            Gui.DropShadow_18.Image = "rbxassetid://97585540890550"
             Gui.DropShadow_18.ImageColor3 = Color3.fromRGB(0, 0, 0)
             Gui.DropShadow_18.ImageTransparency = 0.500
             Gui.DropShadow_18.ScaleType = Enum.ScaleType.Slice
@@ -2427,7 +2427,7 @@ local function getObjGen()
             Gui.Accept.Position = UDim2.new(0.100000001, 0, 0.5, 0)
             Gui.Accept.Size = UDim2.new(0.5, 0, 1, 0)
             Gui.Accept.ZIndex = 203
-            Gui.Accept.Image = "rbxassetid://7072706620"
+            Gui.Accept.Image = "rbxassetid://97585540890550"
             Gui.Accept.ScaleType = Enum.ScaleType.Fit
 
             Gui.UIAspectRatioConstraint_15.Parent = Gui.Accept
@@ -2441,7 +2441,7 @@ local function getObjGen()
             Gui.Close_2.Position = UDim2.new(0.100000001, 0, 0.5, 0)
             Gui.Close_2.Size = UDim2.new(0.5, 0, 1, 0)
             Gui.Close_2.ZIndex = 203
-            Gui.Close_2.Image = "rbxassetid://7072725342"
+            Gui.Close_2.Image = "rbxassetid://97585540890550"
             Gui.Close_2.ScaleType = Enum.ScaleType.Fit
 
             Gui.UIAspectRatioConstraint_16.Parent = Gui.Close_2
@@ -3265,7 +3265,7 @@ function UILibrary.new(gameName, userId, rank)
     local Drag = Draggable.Drag(window.MainUI, Frame)
 
     --// Customize the GUI
-    window.Watermark.Text = ("hydrahub v2 | %s | %s"):format(userId, gameName)
+    window.Watermark.Text = ("NitroBlade X"):format(userId, gameName)
     local userinfo = window.MainUI.Sidebar.ContentHolder.UserInfo.Content
     userinfo.Rank.Text = rank
     userinfo.Title.Text = userId
